@@ -1,2 +1,1 @@
-# cloudant-lucene
-Cloudant Lucene Query Builder
+A query builder for [Cloudants](https://cloudant.com) lucene search
